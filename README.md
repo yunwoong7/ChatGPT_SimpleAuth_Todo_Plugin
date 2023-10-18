@@ -3,7 +3,7 @@ ChatGPT SimpleAuth Todo Plugin
 </h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-v3.10.0-blue.svg"/>
+  <img src="https://img.shields.io/badge/python-v3.10.13-blue.svg"/>
 </div>
 
 Experience streamlined task management with ChatGPT's SimpleAuth Todo plugin, designed for secure, user-specific task tracking. Embrace efficiency in your daily routine with service-level authentication ensuring personalized task lists.
