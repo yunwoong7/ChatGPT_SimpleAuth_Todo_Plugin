@@ -93,7 +93,7 @@ async def openapi_spec():
 
 def main():
     init_db()  # initialize the database
-    app.run(debug=True, host="localhost", port=5002)
+    app.run(debug=True, host="0.0.0.0", port=5002)
 
 
 if __name__ == "__main__":
